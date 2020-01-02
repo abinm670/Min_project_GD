@@ -3,7 +3,7 @@
 var msg = document.getElementById("msgArea");
 msg.value = "Here is some text";
 
-var title = document.getElementById("pageTitle").innerHTML = "Min Project"
+var title = document.getElementById("pageTitle").innerHTML = "Min Project";
 
 // msg.value = document.getElementById("first").innerHTML;
 // msg.value = document.getElementById("first").innerText;
